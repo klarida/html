@@ -1,0 +1,77 @@
+* {
+  padding: 0px;
+  margin: 5px;
+}
+
+body {
+  margin: 0px;
+  background-image: url("waorazni_auto_x2.jpg");
+}
+
+.header {
+  background-color: #5c9282;
+  text-align: center;
+  position: fixed;
+}
+
+.topnav {
+  font-family: "Lato", sans-serif;
+  overflow: hidden;
+  background-color: #5c9282;
+  text-align: center;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 40px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: rgb(226, 228, 101);
+  color: rgb(66, 7, 7);
+}
+
+#adopt {
+  align-items: flex-end;
+  text-align: center;
+  font-size: 10px;
+  font-family: lato;
+  color: #f2f2f2;
+}
+
+#volunteers {
+  align-items: flex-end;
+  text-align: center;
+  font-size: 10px;
+  font-family: lato;
+  color: #f2f2f2;
+}
+
+#shaman {
+  margin: bottom 30px;
+  text-align: center;
+  align-items: flex-end;
+  font-size: 10px;
+  font-family: lato;
+  color: #f2f2f2;
+}
+
+.firstpic {
+  position: fixed;
+  bottom: 0px;
+}
+.secondpic {
+  position: fixed;
+  bottom: 0px;
+  left: 480px;
+}
+
+.thirdpic {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
