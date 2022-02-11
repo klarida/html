@@ -35,7 +35,7 @@ body {
   color: rgb(66, 7, 7);
 }
 
-#adopt {
+#walter {
   align-items: flex-end;
   text-align: center;
   font-size: 10px;
@@ -67,7 +67,7 @@ body {
 .secondpic {
   position: fixed;
   bottom: 0px;
-  left: 480px;
+  left: 465px;
 }
 
 .thirdpic {
